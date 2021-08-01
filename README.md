@@ -1,6 +1,6 @@
 # devclass_recipe
 
-A new Flutter project.
+Project studi kasus membuat aplikasi resep masakan. Berisikan eksplorasi Stateless dan Stateful Widget, mencoba beberapa widget, membuat custom widget, dan membuat fungsi Future.
 
 ## Getting Started
 
